@@ -1,4 +1,4 @@
-package com.proectltd.gasstationsproject.controllers;
+package com.proectltd.gasstationsproject.controllers.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

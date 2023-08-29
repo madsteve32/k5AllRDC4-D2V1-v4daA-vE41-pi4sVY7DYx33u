@@ -1,6 +1,6 @@
 package com.proectltd.gasstationsproject.services.impl;
 
-import com.proectltd.gasstationsproject.controllers.FuelPriceDTO;
+import com.proectltd.gasstationsproject.controllers.dtos.FuelPriceDTO;
 import com.proectltd.gasstationsproject.models.Station;
 import com.proectltd.gasstationsproject.repositories.StationRepository;
 import com.proectltd.gasstationsproject.services.StationService;

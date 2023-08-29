@@ -1,5 +1,6 @@
 package com.proectltd.gasstationsproject.controllers;
 
+import com.proectltd.gasstationsproject.controllers.dtos.FuelPriceDTO;
 import com.proectltd.gasstationsproject.models.Station;
 import com.proectltd.gasstationsproject.services.impl.StationServiceImpl;
 import lombok.AllArgsConstructor;
